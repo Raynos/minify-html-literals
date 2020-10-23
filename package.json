@@ -1,5 +1,5 @@
 {
-  "name": "minify-html-literals",
+  "name": "raynos-min-html",
   "version": "1.3.2",
   "description": "Minify HTML template literal strings",
   "main": "index.js",
